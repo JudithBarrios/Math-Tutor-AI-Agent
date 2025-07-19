@@ -1,0 +1,24 @@
+python
+
+
+## Requirements
+No external libraries needed! Just make sure:
+- Python 3.8+ is available (Google Colab already has this).
+- All code is copied into a Python notebook or `.py` file.
+
+## Project Structure
+
+SmartStudyBot/
+│
+├── SmartStudyBot.ipynb # Main notebook (or .py file)
+├── README.md # About
+└── requirements.txt # Dependency list
+
+
+##  Notes
+- This version does not use any API keys or paid services.
+- All logic is handled locally using Python's basic functionality.
+
+## Course
+Capstone Project – ITAI2376    
+Submission Date: July, 2025
